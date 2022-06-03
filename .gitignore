@@ -1,0 +1,5 @@
+# Ignore fastq files
+*.fastq
+*.fq
+*.sam
+*.bam
